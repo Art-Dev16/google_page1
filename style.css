@@ -1,0 +1,108 @@
+
+p{
+	color: red;
+}
+a{
+	color: green;
+	padding-top: 400px;
+	
+}
+body{
+	background-color:  #FFB833;
+}
+p{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+
+img.img1{
+	padding-left: 700px;
+}
+
+a.a1{
+	color: black;
+	opacity: 1;
+}
+
+a.a2{
+	color : black;
+	opacity: 1;
+}
+
+a.a3{
+	color : black;
+	opacity: 1;
+}
+
+a.a4{
+	color : black;
+	opacity: 1;
+	
+}
+
+
+
+label.label_input1{
+	color: blue;
+}
+input.input1{
+	color: red;
+}
+label.label_input2{
+	position: 100px,500px
+}
+
+
+
+
+nav.menu-nav ul li{
+	list-style-type: none;
+	display: inline-block;
+
+
+
+}
+nav.menu-nav ul li a{
+	color: white;
+	background-color: red;
+	text-decoration: none;
+	padding: 7px;
+
+}
+nav.menu-nav ul li:hover a{
+	color: red;
+	background-color: white;
+	transition: 0.5s all;
+
+}
+
+a.a_salut{
+	font-size: 70px;
+	color: purple;
+	opacity: 1;
+}
+
+
+a.a_salut:hover{
+	color: blue;
+	font-family: showcard gothic;
+
+
+
+}
+button.btn1{
+	color: white;
+	opacity: 1;
+	width: 90px;
+	height: 70px;
+	background-color: red;
+}
+
+img.img_koala{
+	padding-left: 700px;
+	padding-top: 10px;
+}
+
+
+

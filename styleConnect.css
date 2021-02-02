@@ -1,0 +1,34 @@
+span.titre{
+	color: purple;
+	font-size: 40px;
+	opacity: 1;
+	
+
+	
+}
+body{
+	background: url("https://p4.wallpaperbetter.com/wallpaper/891/789/168/orange-yellow-texture-gradient-wallpaper-preview.jpg") no-repeat;
+	background-size: 100%;
+
+}
+audio{
+	bottom: 20px;
+}
+
+input.input_id{
+	background-color: darkblue;
+	margin-top: 40px;
+}
+input.input_psswrd{
+	position: absolute;
+	background-color: darkblue;
+	margin-top: 70px;
+}
+
+
+
+button.valid_id{
+	background-color: darkorange;
+	margin-top: 40px;
+
+}

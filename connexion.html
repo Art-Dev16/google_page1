@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Main App</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="styleConnect.css">
+</head>
+<body>
+	<span class="titre">
+		<b>
+			<center>
+				Connexion à votre compte Google
+			</center>
+		</b>
+	</span>
+
+	<center>
+	
+	<input class="input_id" id="id_button1" type="text" style="font-family: Arial Black"; style="font-weight: bold;" placeholder="Entrez votre adresse Gmail">
+	<input class="input_psswrd" id="id_psswrd" type="text" style="font-family: Arial Black"; style="font-weight: bold;" placeholder="Saisissez votre mot de passe">
+
+    <button class="valid_id" type="button" onclick="getValue();">VALIDER</button>
+    </center>
+	<script type="text/javascript">
+		function getValue() {
+    // Sélectionner l'élément input et récupérer sa valeur
+    var input = document.getElementById("id_button1").value;
+    // Afficher la valeur
+    alert(input);
+
+}
+	</script>
+</body>
+
+</html>

@@ -1,0 +1,37 @@
+span.titre{
+	color: purple;
+	font-size: 50px;
+}
+
+body{
+	background: url("https://www.wallpapertip.com/wmimgs/75-751645_google-wallpaper-4k.jpg")no-repeat;
+	background-size: 100%;
+}
+
+button.btn_se_connecter{
+	margin-top: 70px;
+	background-color: skyblue;
+	
+}
+
+button.btn_sinscrire{
+	background-color: skyblue;
+	position:absolute;
+	top: 250px;
+	right: 608px;
+}
+
+
+
+
+p.good_life{
+	margin-top: 400px;
+}
+
+img.logo_g{
+	margin-left: 1280px;
+	position:absolute;
+	top : 8px;
+
+}
+

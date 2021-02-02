@@ -1,0 +1,27 @@
+span.titre{
+	color: purple;
+	font-size: 40px;
+	opacity: 1;
+	
+
+	
+}
+body{
+	background: url("https://www.wallpapertip.com/wmimgs/75-751645_google-wallpaper-4k.jpg") no-repeat;
+	background-size: 100%;
+
+}
+audio{
+	bottom: 20px;
+}
+
+input.input_id{
+	background-color: darkblue;
+	margin-top: 40px;
+}
+
+button.valid_id{
+	background-color: darkorange;
+	margin-top: 40px;
+
+}
